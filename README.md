@@ -1,6 +1,6 @@
-# Untitiled AI – Intelligent In-Car Experience with Generative AI
+# Untitled AI – Intelligent In-Car Experience with Generative AI
 
-**Untitiled AI** is an advanced **AI-powered infotainment and personalization system** designed to enhance **user-vehicle interaction**. By leveraging **Generative AI**, it creates an **adaptive, intuitive, and intelligent in-car environment**. The system features a **voice assistant**, **personalized recommendations** for music, podcasts, and more, and **predictive navigation** to make every drive smarter.
+**Untitled AI** is an advanced **AI-powered infotainment and personalization system** designed to enhance **user-vehicle interaction**. By leveraging **Generative AI**, it creates an **adaptive, intuitive, and intelligent in-car environment**. The system features a **voice assistant**, **personalized recommendations** for music, podcasts, and more, and **predictive navigation** to make every drive smarter.
 
 ## Key Features
 
@@ -39,4 +39,4 @@ The predictive navigation system uses historical route data to estimate travel t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amritofficial88/Untitiled AI.git
+   git clone https://github.com/amritofficial88/Untitled AI.git
